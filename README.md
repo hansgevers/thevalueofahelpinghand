@@ -9,5 +9,4 @@ Relevant hyperlinks:
 www.share-eric.eu
 www.stata.com
 
-Author: Hans Gevers - Junior Research Fellow at the Estonian Business School
-https://orcid.org/0009-0001-0249-4142 hans.gevers@ebs.ee
+Author: Hans Gevers - https://orcid.org/0009-0001-0249-4142
