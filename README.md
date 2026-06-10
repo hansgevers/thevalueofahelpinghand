@@ -8,6 +8,8 @@ The calculation of calibrated longitudinal weights in the data preprocessing pha
 Separate documentation is added to illustrate the stereotype ordered regressions and their margins which back the findings regardless the violation of the parallel regression assumption.
 Note: For the Stereotype Ordered regressions, margins are referred to in the paper which are based on an interaction effect that is possibly not significant. Across years the interaction effect is 3 to 4 times sufficiently significant per imputed dataset.
 
+For the latest version, i.e. version 5, updated do- and log-files are available. The supplement covers the additional stereotype logistic estimators per overall for 2011 and 2015, and per country for 2015. Supplement 2 covers the additional stereotype logistic estimators per country for 2011. The proportional odds assumption test remains available in output_sup_1.pdf.
+
 Relevant hyperlinks:
 www.share-eric.eu
 www.stata.com
